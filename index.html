@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<div>
+
+  <section>
+    <h1>Alessia Milo</h1>
+
+    <p>
+     Sound | Architecture | Space | Interaction
+    </p>
+  </section>
+
+  <section>
+    <h2>Who am I?</h2>
+
+<p>
+Alessia Milo<br>architect and PhD researcher<br>at Queen Mary University of London<br>Media and Arts Technology<br><a href="http://auralcharacter.wordpress.com">Aural Character of Places</a>
+</p>
+  </section>
+
+  <section>
+
+<p>other projects<br> explore <a href="https://vimeo.com/user9526098"> my Vimeo Channel </a><br> performative interface <a href="https://www.youtube.com/watch?v=zDQX68xmf5k"> Wat </a> <br> talk given at <a href="https://www.youtube.com/watch?v=TeD3RhHDv1A"> EMF </a> <br> spectral fluxus <a href="https://www.youtube.com/watch?v=smhomsE_Fkc"> live visuals</a> <br> write me here:  contact [at] alessiamilo.com <br>
+</p>
+<!-- <div  id="sketch-holder"></div> -->
+  </section>
+
+<section>
+  <h1>Projects</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+    <br>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <img src="{{ post.image_preview }}" alt="{{ post.image_preview }}" width="500">
+    <br>
+    </li>
+  {% endfor %}
+</ul>
+<!-- <ul>
+  {% for post in site.posts %}
+    <li>
+    <img src="{{ post.image_preview }}" alt="Smiley face" height="100" width="100">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul> -->
+</section>
+
+
+<section>
+
+  <!-- <h2>Cards</h2> -->
+
+  <div class="grid t-hackcss-cards">
+
+    {% for project in site.projects %}
+
+    <div class="cell -10of12 t-hackcss-cards-cell">
+    <!-- <div style="width=30%; margin-right:2rem; margin-bottom:2rem; margin-top:2rem"> -->
+      <div class="card">
+        <!-- <header class="card-header">{{ project.name }}</header> -->
+        <div class="card-content">
+          <div class="inner">
+
+            {% if project.image %}
+            <img src="{{ project.image }}" class="t-hackcss-cards-image"
+                 alt="{{ project.name }}"
+                 title="{{ project.name }}" />
+            {% endif %}
+
+            <p class="t-hackcss-cards-text">{{ project.description }}</p>
+            <p class="t-hackcss-cards-link">
+              <a href="{{ project.link }}" title="{{ project.name }}" target="_blank">
+                 {{ project.name }}
+               </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+  </div>
+</section>
+
+
+  <section>
+    <h2>Subscribe</h2>
+
+    <p>
+      subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+    </p>
+  </section>
+
+
+</div>
