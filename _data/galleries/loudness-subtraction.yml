@@ -1,0 +1,126 @@
+# picture_path: san-francisco
+# preview:
+#   filename: VS-2012-5948
+#   original: VS-2012-5948-6000x4000.jpg
+#   sizes:
+#   - VS-2012-5948-4242x2828.jpg
+#   - VS-2012-5948-2121x1414.jpg
+#   - VS-2012-5948-2999x1999.jpg
+#   thumbnail: VS-2012-5948-thumbnail.jpg
+picture_path: loudness-subtraction
+preview:
+  filename: aural30sec
+  original: aural30sec-001-WLP-Subtraction.png
+  sizes:
+  - aural30sec-001-WLP-Subtraction.png
+  thumbnail: aural30sec-001-WLPSubtraction.png
+
+
+pictures:
+- filename: aural30sec-001-WLP-Subtraction
+  original: aural30sec-001-WLP-Subtraction.png
+  sizes:
+  - aural30sec-001-WLP-Subtraction.png
+  thumbnail: aural30sec-001-WLP-Subtraction.png
+
+- filename: aural30sec-002-PRS-Subtraction
+  original: aural30sec-002-PRS-Subtraction.png
+  sizes:
+  - aural30sec-002-PRS-Subtraction.png
+  thumbnail: aural30sec-002-PRS-Subtraction.png
+
+- filename: aural30sec-003-KWC-Subtraction
+  original: aural30sec-003-KWC-Subtraction.png
+  sizes:
+  - aural30sec-003-KWC-Subtraction.png
+  thumbnail: aural30sec-003-KWC-Subtraction.png
+
+- filename: aural30sec-004-QMC-Subtraction
+  original: aural30sec-004-QMC-Subtraction.png
+  sizes:
+  - aural30sec-004-QMC-Subtraction.png
+  thumbnail: aural30sec-004-QMC-Subtraction.png
+
+- filename: aural30sec-005-CYS-Subtraction
+  original: aural30sec-005-CYS-Subtraction.png
+  sizes:
+  - aural30sec-005-CYS-Subtraction.png
+  thumbnail: aural30sec-005-CYS-Subtraction.png
+
+- filename: aural30sec-006-CHE-Subtraction
+  original: aural30sec-006-CHE-Subtraction.png
+  sizes:
+  - aural30sec-006-CHE-Subtraction.png
+  thumbnail: aural30sec-006-CHE-Subtraction.png
+
+- filename: aural30sec-007-MST-Subtraction
+  original: aural30sec-007-MST-Subtraction.png
+  sizes:
+  - aural30sec-007-MST-Subtraction.png
+  thumbnail: aural30sec-007-MST-Subtraction.png
+
+- filename: aural30sec-008-KWG-Subtraction
+  original: aural30sec-008-KWG-Subtraction.png
+  sizes:
+  - aural30sec-008-KWG-Subtraction.png
+  thumbnail: aural30sec-008-KWG-Subtraction.png
+
+- filename: aural30sec-009-TLC-Subtraction
+  original: aural30sec-009-TLC-Subtraction.png
+  sizes:
+  - aural30sec-009-TLC-Subtraction.png
+  thumbnail: aural30sec-009-TLC-Subtraction.png
+
+- filename: aural30sec-010-TUL-Subtraction
+  original: aural30sec-010-TUL-Subtraction.png
+  sizes:
+  - aural30sec-010-TUL-Subtraction.png
+  thumbnail: aural30sec-010-TUL-Subtraction.png
+
+- filename: aural30sec-011-UND-Subtraction
+  original: aural30sec-011-UND-Subtraction.png
+  sizes:
+  - aural30sec-011-UND-Subtraction.png
+  thumbnail: aural30sec-011-UND-Subtraction.png
+
+- filename: aural30sec-012-PHA-Subtraction
+  original: aural30sec-012-PHA-Subtraction.png
+  sizes:
+  - aural30sec-012-PHA-Subtraction.png
+  thumbnail: aural30sec-012-PHA-Subtraction.png
+
+- filename: aural30sec-013-MKS-Subtraction
+  original: aural30sec-013-MKS-Subtraction.png
+  sizes:
+  - aural30sec-0013-MKS-Subtraction.png
+  thumbnail: aural30sec-013-MKS-Subtraction.png
+
+- filename: aural30sec-014-WAT-Subtraction
+  original: aural30sec-014-WAT-Subtraction.png
+  sizes:
+  - aural30sec-014-WAT-Subtraction.png
+  thumbnail: aural30sec-014-WAT-Subtraction.png
+
+- filename: aural30sec-015-MKN-Subtraction
+  original: aural30sec-015-MKN-Subtraction.png
+  sizes:
+  - aural30sec-015-MKN-Subtraction.png
+  thumbnail: aural30sec-015-MKN-Subtraction.png
+
+- filename: aural30sec-016-QAC-Subtraction
+  original: aural30sec-016-QAC-Subtraction.png
+  sizes:
+  - aural30sec-016-QAC-Subtraction.png
+  thumbnail: aural30sec-016-QAC-Subtraction.png
+
+- filename: aural30sec-017-GRW-Subtraction
+  original: aural30sec-017-GRW-Subtraction.png
+  sizes:
+  - aural30sec-017-GRW-Subtraction.png
+  thumbnail: aural30sec-017-GRW-Subtraction.png
+
+- filename: aural30sec-018-FOU-Subtraction
+  original: aural30sec-018-FOU-Subtraction.png
+  sizes:
+  - aural30sec-018-FOU-Subtraction.png
+  thumbnail: aural30sec-018-FOU-Subtraction.png
