@@ -8,6 +8,8 @@ support: [jquery, gallery]
 Loudness Extraction using [libxtract][vamp] in [sonic-annotator][sonic].
 Plotted in python using sonic-annotator vamp extraction features and spectrogram visualisation by [Frank Zalkow][frank].
 You can find code and instructions [here][code].
+
+
 All images licensed under [CC-BY-NC-SA license][license].
 
 {% include gallery-layout.html gallery=site.data.galleries.loudness-subtraction %}
