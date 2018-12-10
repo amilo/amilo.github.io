@@ -1,10 +1,7 @@
 # website for amilo.me
 
-using jekyll and jekyll-theme-hackcss [CSS framework](http://hackcss.com/).
+using jekyll and [jekyll-theme-hackcss](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
 
-## theme configuration
-
-See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
 
 ## License
 
