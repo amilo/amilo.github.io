@@ -1,8 +1,15 @@
-# jekyll-theme-hackcss
+# website for amilo.me
 
-[Dead simple CSS framework](http://hackcss.com/) now with Jekyll.
+using jekyll and jekyll-theme-hackcss [CSS framework](http://hackcss.com/).
 
-Mobile-ready, modern, stylish, simple.
+## theme configuration
+
+See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
+
+## License
+
+GNU PGL 3. See [LICENSE](https://github.com/wemake-services/jekyll-theme-hackcss/blob/3cbe97b71a56a19eba386dd928e125b71e50c71e/LICENSE) for more information.
+
 
 ## Theme modes
 
@@ -18,10 +25,3 @@ This theme comes in three modes, which could be configured in `_config.yml`.
 
 Clone this repo. Create your own website. Easy.
 
-## Configuration
-
-See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
-
-## License
-
-GNU PGL 3. See [LICENSE](https://github.com/wemake-services/jekyll-theme-hackcss/blob/3cbe97b71a56a19eba386dd928e125b71e50c71e/LICENSE) for more information.
