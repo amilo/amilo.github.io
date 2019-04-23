@@ -26,7 +26,9 @@ In addition, I created a video using the raytracing features of Autodesk Ecotect
 <iframe src="https://player.vimeo.com/video/33535460" width="600" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/33535460">Ecotect Visualization - Airone</a> from <a href="https://vimeo.com/user9526098">Alessia Milo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-#vAcknowledgements:
+Images available [here](https://amilo.github.io/photography/airone-comparison.html)
+
+# Acknowledgements:
 
 Thanks to my supervisors, Livio de Santoli for educating architects to sustainability and energy management and Marco Valerio Masci for providing invaluable advice on acoustic design practices. Thanks also to Ivo Ambrosi for sharing the original survey material about the Airone (Nema Architecture + BluooStudio) and additional modelling consultancy.
 
