@@ -1,0 +1,193 @@
+picture_path: airone-comparison
+preview:
+  filename: airone
+  original: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+  sizes:
+  - 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+  thumbnail: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+
+
+pictures:
+- filename: 01-tavola-01.jpg
+  original: 01-tavola-01.jpg
+  sizes:
+  - 01-tavola-01.jpg
+  thumbnail: 01-tavola-01.jpg
+- filename: 02TAVOLA-02.jpg
+  original: 02TAVOLA-02.jpg
+  sizes:
+  - 02TAVOLA-02.jpg
+  thumbnail: 02TAVOLA-02.jpg
+- filename: 03MODELLIZZAZIONE-CALCOLO.jpg
+  original: 03MODELLIZZAZIONE-CALCOLO.jpg
+  sizes:
+  - 03MODELLIZZAZIONE-CALCOLO.jpg
+  thumbnail: 03MODELLIZZAZIONE-CALCOLO.jpg
+- filename: 04_SPACCATO-TEMPO-OTTIMALE.jpg
+  original: 04_SPACCATO-TEMPO-OTTIMALE.jpg
+  sizes:
+  - 04_SPACCATO-TEMPO-OTTIMALE.jpg
+  thumbnail: 04_SPACCATO-TEMPO-OTTIMALE.jpg
+- filename: 05_MATERIALI-CON-ESPLOSO
+  original: 05_MATERIALI-CON-ESPLOSO.jpg
+  sizes:
+  - 05_MATERIALI-CON-ESPLOSO.jpg
+  thumbnail: 05_MATERIALI-CON-ESPLOSO.jpg
+- filename: 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+  original: 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+  sizes:
+  - 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+  thumbnail: 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+- filename: 07_TAVOLA-ACUSTICA-LEQ.jpg
+  original: 07_TAVOLA-ACUSTICA-LEQ.jpg
+  sizes:
+  - 07_TAVOLA-ACUSTICA-LEQ.jpg
+  thumbnail: 07_TAVOLA-ACUSTICA-LEQ.jpg
+- filename: 08_HALL-T20.jpg
+  original: 08_HALL-T20.jpg
+  sizes:
+  - 08_HALL-T20.jpg
+  thumbnail: 08_HALL-T20.jpg
+- filename: 09_SOFTWARE_COMPARINGS.jpg
+  original: 09_SOFTWARE_COMPARINGS.jpg
+  sizes:
+  - 09_SOFTWARE_COMPARINGS.jpg
+  thumbnail: 09_SOFTWARE_COMPARINGS.jpg
+- filename: 10_CONFRONTO-SOFTWARE.jpg
+  original: 10_CONFRONTO-SOFTWARE.jpg
+  sizes:
+  - 10_CONFRONTO-SOFTWARE.jpg
+  thumbnail: 10_CONFRONTO-SOFTWARE.jpg
+- filename: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+  original: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+  sizes:
+  - 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+  thumbnail: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+- filename: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+  original: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+  sizes:
+  - 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+  thumbnail: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+- filename: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+  original: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+  sizes:
+  - 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+  thumbnail: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+- filename: 14TAVOLA-14.jpg
+  original: 14TAVOLA-14.jpg
+  sizes:
+  - 14TAVOLA-14.jpg
+  thumbnail: 14TAVOLA-14.jpg
+- filename: 15TAVOLA-15.jpg
+  original: 15TAVOLA-15.jpg
+  sizes:
+  - 15TAVOLA-15.jpg
+  thumbnail: 15TAVOLA-15.jpg
+
+
+
+# picture_path: airone-comparison
+# preview:
+#  filename: airone
+#  original: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#  sizes:
+#  - 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#  thumbnail: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#
+# pictures:
+# - filename: 01-tavola-01
+#  original: 01-tavola-01.jpg
+#  sizes:
+#  - 01-tavola-01.jpg
+#  thumbnail: 01-tavola-01.jpg
+
+
+# - filename: 01-tavola-01
+#  original: 01-tavola-01.jpg
+#  sizes:
+#  - 01-tavola-01.jpg
+#  thumbnail: 01-tavola-01.jpg
+#
+# - filename: 02TAVOLA-02
+#  original: 02TAVOLA-02.jpg
+#  sizes:
+#  - 02TAVOLA-02.jpg
+#  thumbnail: 02TAVOLA-02.jpg
+#
+# - filename: 03MODELLIZZAZIONE-CALCOLO
+#  original: 03MODELLIZZAZIONE-CALCOLO.jpg
+#  sizes:
+#  - 03MODELLIZZAZIONE-CALCOLO.jpg
+#  thumbnail: 03MODELLIZZAZIONE-CALCOLO.jpg
+#
+# - filename: 04_SPACCATO-TEMPO-OTTIMALE
+#  original: 04_SPACCATO-TEMPO-OTTIMALE.jpg
+#  sizes:
+#  - 04_SPACCATO-TEMPO-OTTIMALE.jpg
+#  thumbnail: 04_SPACCATO-TEMPO-OTTIMALE.jpg
+#
+# - filename: 05_MATERIALI-CON-ESPLOSO
+#  original: 05_MATERIALI-CON-ESPLOSO.jpg
+#  sizes:
+#  - 05_MATERIALI-CON-ESPLOSO.jpg
+#  thumbnail: 05_MATERIALI-CON-ESPLOSO.jpg
+#
+# - filename: 06-TAVOLA-ACUSTICA-SALA-LEQ
+#  original: 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+#  sizes:
+#  - 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+#  thumbnail: 06-TAVOLA-ACUSTICA-SALA-LEQ.jpg
+#
+# - filename: 08 HALL-T20
+#  original: 08 HALL-T20.jpg
+#  sizes:
+#  - 08 HALL-T20.jpg
+#  thumbnail: 08 HALL-T20.jpg
+#
+# - filename: 10_CONFRONTO-SOFTWARES-DEFINITIVA-INSERIRE-TESTO-PARAMETRI-CARATTERE-ANNO-
+#  original: 10_CONFRONTO-SOFTWARES-DEFINITIVA-INSERIRE-TESTO-PARAMETRI-CARATTERE-ANNO-.jpg
+#  sizes:
+#  - 10_CONFRONTO-SOFTWARES-DEFINITIVA-INSERIRE-TESTO-PARAMETRI-CARATTERE-ANNO-.jpg
+#  thumbnail: 10_CONFRONTO-SOFTWARES-DEFINITIVA-INSERIRE-TESTO-PARAMETRI-CARATTERE-ANNO-.jpg
+#
+# - filename: 11-TAVOLA-COMPARAZIONE-MAPPE
+#  original: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#  sizes:
+#  - 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#  thumbnail: 11-TAVOLA-COMPARAZIONE-MAPPE.jpg
+#
+# - filename: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1
+#  original: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+#  sizes:
+#  - 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+#  thumbnail: 12-OKTAVOLA-COMPARAZIONE-RICEVITORI-1.jpg
+#
+# - filename: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2
+#  original: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+#  sizes:
+#  - 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+#  thumbnail: 13OKTAVOLA-COMPARAZIONE-RICEVITORI-2.jpg
+#
+# - filename: 14TAVOLA-14
+#  original: 14TAVOLA-14.jpg
+#  sizes:
+#  - 14TAVOLA-14.jpg
+#  thumbnail: 14TAVOLA-14.jpg
+#
+# - filename: 15TAVOLA-15
+#  original: 15TAVOLA-15.jpg
+#  sizes:
+#  - 15TAVOLA-15.jpg
+#  thumbnail: 15TAVOLA-15.jpg
+#
+# - filename: 7okTAVOLA-ACUSTICA-SCHEMINI-LEQ
+#  original: 7okTAVOLA-ACUSTICA-SCHEMINI-LEQ.jpg
+#  sizes:
+#  - 7okTAVOLA-ACUSTICA-SCHEMINI-LEQ.jpg
+#  thumbnail: 7okTAVOLA-ACUSTICA-SCHEMINI-LEQ.jpg
+#
+# - filename: SOFTWARES COMPARINGS
+#  original: SOFTWARES COMPARINGS.jpg
+#  sizes:
+#  - SOFTWARES COMPARINGS.jpg
+#  thumbnail: SOFTWARES COMPARINGS.jpg
