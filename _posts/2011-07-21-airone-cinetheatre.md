@@ -15,6 +15,10 @@ Visualising Sound Through Architecture. Tesi sperimentale in Acustica presso la 
 Supervisors: Prof. Ing. Livio de Santoli and Arch. Marco Valerio Masci
 
 
+
+<img src="/assets/photography/airone-comparison/04_SPACCATO-TEMPO-OTTIMALE.jpg" alt="Airone Section 3D" height="auto" width="600">
+
+
 Acoustic design through trial and error to achieve correct Reverberation Time (0,7s 1000 Hz) and related curve for the purpose intended (cine-auditorium).
 Analysis of the results in Ramsete for 423 receivers. Mesh Optimisation through computational geometry (Rhino + grasshopper) and analysis of the results for the optimised geometry with high orders of reflections (~13).
 Simulation results didn't differ greatly between the 9th and the 10th order of reflections which allowed to run faster simulations.

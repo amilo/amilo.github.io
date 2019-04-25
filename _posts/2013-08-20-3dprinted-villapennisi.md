@@ -14,4 +14,6 @@ We applied holes on the above layer, closer to the light to avoid overheating of
 The curved shape was divided in 12 + 12 pieces to be assembled together in an interplay of mutual forces, and jointed by pushing the above layer into the lower ring. Every pieces was 3D printed by a rep rap on site, managed by Davide Ercolano. We discovered that avoiding the internal filling we could leave only the external walls of the piece, achieving more transparency and saving material.
 The pieces were designed to stand flat on one side, although having a curved profile and section. The design and the printing took about 5 days in total.
 
-Pictures [here](https://amilo.github.io/photography/airone-comparison.html)
+<img src="/assets/photography/3dprinted-lamp/Little_Bell_milo_pennisi_06.jpg" alt="Lamp on stage" height="auto" width="600">
+
+Other pictures [here](https://amilo.github.io/photography/airone-comparison.html)
