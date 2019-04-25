@@ -1,0 +1,45 @@
+picture_path: 3dprinted-lamp
+preview:
+  filename: Little_Bell_milo_pennisi_
+  original: Little_Bell_milo_pennisi_07.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_07.jpg
+  thumbnail: Little_Bell_milo_pennisi_07.jpg
+
+
+pictures:
+- filename: Little_Bell_milo_pennisi_01.jpg
+  original: Little_Bell_milo_pennisi_01.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_01.jpg
+  thumbnail: Little_Bell_milo_pennisi_01.jpg
+- filename: Little_Bell_milo_pennisi_02.jpg
+  original: Little_Bell_milo_pennisi_02.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_02.jpg
+  thumbnail: Little_Bell_milo_pennisi_02.jpg
+- filename: Little_Bell_milo_pennisi_03.jpg
+  original: Little_Bell_milo_pennisi_03.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_03.jpg
+  thumbnail: Little_Bell_milo_pennisi_03.jpg
+- filename: Little_Bell_milo_pennisi_04.jpg
+  original: Little_Bell_milo_pennisi_04.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_04.jpg
+  thumbnail: Little_Bell_milo_pennisi_04.jpg
+- filename: Little_Bell_milo_pennisi_05.jpg
+  original: Little_Bell_milo_pennisi_05.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_05.jpg
+  thumbnail: Little_Bell_milo_pennisi_05.jpg
+- filename: Little_Bell_milo_pennisi_06.jpg
+  original: Little_Bell_milo_pennisi_06.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_06.jpg
+  thumbnail: Little_Bell_milo_pennisi_06.jpg
+- filename: Little_Bell_milo_pennisi_07.jpg
+  original: Little_Bell_milo_pennisi_07.jpg
+  sizes:
+  - Little_Bell_milo_pennisi_07.jpg
+  thumbnail: Little_Bell_milo_pennisi_07.jpg
