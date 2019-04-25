@@ -4,7 +4,7 @@ title: Villa Pennisi in Musica
 date: 2013-08-20 00:18:23
 author: amilo
 short_description: 3d printing a lamp on site
-image_preview: /assets/photography/3dprintedlamp/Little_Bell_milo_pennisi_06.jpg
+image_preview: /assets/photography/3dprinted-lamp/Little_Bell_milo_pennisi_06.jpg
 
 ---
 In August 2013 I took part in [Villa Pennisi in Musica Workshop 2013](https://vimeo.com/93459032).

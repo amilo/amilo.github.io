@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Memorial Modernism
-date: 2012-01-29 00:18:23
-<!--categories: architecture, ruins, regeneration, city, vision, art-->
+date: 2014-03-29 00:18:23
 short_description: Legacy of architectural experiments
 image_preview: /images/memorial-modernism.png
 ---
