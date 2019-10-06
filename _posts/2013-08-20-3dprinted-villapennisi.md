@@ -16,4 +16,4 @@ The pieces were designed to stand flat on one side, although having a curved pro
 
 <img src="/assets/photography/3dprinted-lamp/Little_Bell_milo_pennisi_06.jpg" alt="Lamp on stage" height="auto" width="600">
 
-Other pictures [here](https://amilo.github.io/photography/airone-comparison.html)
+Other pictures [here](https://amilo.github.io/photography/3dprinted-lamp.html)
