@@ -6,7 +6,7 @@ author: amilo
 <!--categories: interaction, arduino, in-situ, china, craft-->
 short_description: Explaining in-situ making
 image_preview: /images/music-boxes.jpg
-external_url: http://eecs.qmul.ac.uk/~nickbk/hengling16/
+external_url: https://nickbknickbk.github.io/Hengling/index.html
 ---
 
-[Hengling Music Boxes](http://eecs.qmul.ac.uk/~nickbk/hengling16/)
+[Hengling Music Boxes](https://nickbknickbk.github.io/Hengling/index.html)
